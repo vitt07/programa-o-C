@@ -1,6 +1,6 @@
 #include <strio.h>
 
-char name = bom dia!
+char name = "bom dia!"
 
 printf("%s" ,&name);
 
