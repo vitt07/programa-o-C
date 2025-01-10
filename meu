@@ -1,0 +1,7 @@
+#include <strio.h>
+
+char name = bom dia!
+
+printf("%s" ,&name);
+
+return 0;
